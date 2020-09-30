@@ -1,2 +1,3 @@
-# NetflixMovieRecommendations
-Binghamton University Datathon 2020
+# NetflixMovieRecommender
+
+## Binghamton University Datathon 2020
